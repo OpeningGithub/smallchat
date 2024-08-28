@@ -1,0 +1,244 @@
+commit edcd3a2a224b2f765ec1ea8fc410635bb7bf77ef
+Author: 欧阳中岩 <19117305310@chinatelecom.cn>
+Date:   Mon Aug 26 15:34:50 2024 +0800
+
+    Create git-push-test.md
+
+commit 8fc6d387ceb9e1dab83182e7b89885e0f1b43f5a
+Merge: f63b7ae 3253cc4
+Author: Salvatore Sanfilippo <antirez@gmail.com>
+Date:   Sat Nov 11 10:14:30 2023 +0100
+
+    Merge pull request #45 from Ekkosun/main
+    
+    fix compile error "storage size of 'hints' isn't know"
+
+commit 3253cc4c4aaa48b41ac69d0e7dd736c63fb89289
+Author: Ekkosun <43778275+Ekkosun@users.noreply.github.com>
+Date:   Sat Nov 11 15:16:29 2023 +0800
+
+    fix compile error "storage size of 'hints' isn't know"
+
+commit f63b7ae98eadc52888d13d648eb5893bf2e5428d
+Merge: 82c5468 d90aff3
+Author: Salvatore Sanfilippo <antirez@gmail.com>
+Date:   Fri Nov 10 19:25:44 2023 +0100
+
+    Merge pull request #41 from how2051/main
+    
+    fix typo in Makefile
+
+commit 82c5468492823d11da53e7cd50b349a669d0b184
+Author: antirez <antirez@gmail.com>
+Date:   Fri Nov 10 17:05:15 2023 +0100
+
+    Clarify snprintf() check.
+
+commit d90aff345f22328d7dc726cbfd30bfbdd1429b04
+Author: how2051 <chenhao_public@163.com>
+Date:   Fri Nov 10 17:21:14 2023 +0800
+
+    fix typo in Makefile
+
+commit 5bd10ad551ff4678fc4eccc83d3f692a9edf98e5
+Merge: cfea88d 68e9362
+Author: Salvatore Sanfilippo <antirez@gmail.com>
+Date:   Fri Nov 10 09:53:33 2023 +0100
+
+    Merge pull request #37 from Howe829/clean
+    
+    Clean smallchat-client
+
+commit cfea88d92bc2ef900b5dcb6e2bba8ae2e1269d50
+Author: antirez <antirez@gmail.com>
+Date:   Fri Nov 10 09:52:27 2023 +0100
+
+    Discourage PRs that will be discarded.
+
+commit 1962b33cabb99841a8962e64d0ba05846386919d
+Author: antirez <antirez@gmail.com>
+Date:   Fri Nov 10 09:34:16 2023 +0100
+
+    Fix maxclient updating (issue #39).
+
+commit 68e9362fa73b5b898b2be9900f50ca6044790b86
+Author: ChenZhengHao <chenzhenghao@mail.teletraan.io>
+Date:   Fri Nov 10 11:25:35 2023 +0800
+
+    Update .gitignore
+
+commit faf54ed1818f9b2662527d50f6ceb881ba7b2656
+Author: ChenZhengHao <chenzhenghao@mail.teletraan.io>
+Date:   Fri Nov 10 09:42:21 2023 +0800
+
+    Clean smallchat-client
+
+commit 1721326997cff54cb65ae41452626fe6b05947f2
+Author: antirez <antirez@gmail.com>
+Date:   Thu Nov 9 13:28:41 2023 +0100
+
+    README: second episode linked.
+
+commit 3b57d6ee345ce2040a1dd1849a785e50231bdb50
+Author: antirez <antirez@gmail.com>
+Date:   Thu Nov 9 13:21:55 2023 +0100
+
+    Initial minimal client.
+
+commit a056eeea9bd344cde3a35d13667b770b95301ebf
+Author: antirez <antirez@gmail.com>
+Date:   Tue Nov 7 19:24:36 2023 +0100
+
+    Unify cleanup / return from TCPConnect().
+
+commit 2e50ab54381aafdec9d284b761332e0f9d3589d4
+Author: antirez <antirez@gmail.com>
+Date:   Sat Nov 4 22:11:18 2023 +0100
+
+    Implement TCPConnect().
+
+commit e6bff67b452de4b01620915b5d5bdf71819e280b
+Author: antirez <antirez@gmail.com>
+Date:   Sat Nov 4 11:31:48 2023 +0100
+
+    Name the server program more explicitly.
+
+commit 2319d4ffc6583a235a206c098a060ae0c45e5a35
+Author: antirez <antirez@gmail.com>
+Date:   Sat Nov 4 10:55:51 2023 +0100
+
+    Put general library stuff outside smallchat.c.
+
+commit f6c3c9e9becfaadd56916526bb3e1538f29f07a7
+Merge: 55c7544 6fa4cf5
+Author: Salvatore Sanfilippo <antirez@gmail.com>
+Date:   Fri Nov 3 10:53:17 2023 +0100
+
+    Merge pull request #12 from pauloxnet/issues/README
+    
+    Fixes some typos in the README
+
+commit 55c75447f1b59d2dcb788efd80f6defdd3faee5b
+Merge: 7b7e8fd 9b95129
+Author: Salvatore Sanfilippo <antirez@gmail.com>
+Date:   Fri Nov 3 10:52:23 2023 +0100
+
+    Merge pull request #7 from juniorohanyere/main
+    
+    corrected wrong spelling in comment
+
+commit 7b7e8fd55986a3dc7342bcae3b533a46f9e9d5f5
+Merge: c92208f a32ff38
+Author: Salvatore Sanfilippo <antirez@gmail.com>
+Date:   Fri Nov 3 10:51:42 2023 +0100
+
+    Merge pull request #16 from zhangkai803/main
+    
+    Add .gitignore and tell the compiler to use the C99 standard
+
+commit a32ff382ee68cc939b0f167c4f475ce500bebbbf
+Author: zhangkai803 <1065879514@qq.com>
+Date:   Mon Oct 30 18:37:57 2023 +0800
+
+    add: .gitignore
+
+commit 6fa4cf55809b199a4be58d911816e510b5f4dc64
+Author: Paolo Melchiorre <paolo@melchiorre.org>
+Date:   Fri Nov 3 09:29:47 2023 +0100
+
+    Fixes some typos in the README
+
+commit 9b9512970bb5b03e26e39d8a7fb130fd65d99f70
+Author: Twin J <junohanyere@gmail.com>
+Date:   Fri Nov 3 00:45:09 2023 +0100
+
+    corrected typographical error in line 62
+
+commit c92208f0ab0ee9d846b21bd2f809cb242e374964
+Merge: e9b8ec2 2c97954
+Author: Salvatore Sanfilippo <antirez@gmail.com>
+Date:   Thu Nov 2 22:38:09 2023 +0100
+
+    Merge pull request #4 from eltociear/patch-1
+    
+    Fix typo in smallchat.c
+
+commit e9b8ec2c28bc1ab3af737ba1ab3c43d2c4c6323a
+Author: antirez <antirez@gmail.com>
+Date:   Thu Nov 2 22:37:36 2023 +0100
+
+    Check snprintf() return value for overflow. Fixes #6.
+
+commit 5f6f5a5873e8e8b0836bc669c64255acecf53249
+Author: antirez <antirez@gmail.com>
+Date:   Thu Nov 2 19:39:20 2023 +0100
+
+    README: future plans.
+
+commit 6ee6e4e8e13c27c77e213366738d03dc2616783d
+Author: antirez <antirez@gmail.com>
+Date:   Wed Nov 1 17:57:41 2023 +0100
+
+    Remove Redis name from cut&pasted license.
+
+commit c065606108d5dcfd7034c9444bb2736cf1ff2ae6
+Author: antirez <antirez@gmail.com>
+Date:   Wed Nov 1 17:28:34 2023 +0100
+
+    README: Link to YouTube video.
+
+commit 2c97954b349bb3a1ce0c6f81ddd9d3fff16932c7
+Author: Ikko Eltociear Ashimine <eltociear@gmail.com>
+Date:   Wed Nov 1 12:00:40 2023 +0900
+
+    Fix typo in smallchat.c
+    
+    lisetning -> listening
+
+commit 163b048ee74150fa953683bb9af6ac288fc22abb
+Author: antirez <antirez@gmail.com>
+Date:   Tue Oct 31 21:02:33 2023 +0100
+
+    README: typo.
+
+commit 5a978ab33421c669d0557378ed816b8360e31a55
+Author: antirez <antirez@gmail.com>
+Date:   Tue Oct 31 20:51:47 2023 +0100
+
+    README expanded.
+
+commit 31efacd65ff3dc4bc2a6bb9d64514bc34c3fdc05
+Author: antirez <antirez@gmail.com>
+Date:   Sat Oct 28 09:34:02 2023 +0200
+
+    README: Fix a few typos.
+
+commit 9d760066ef34d3693da36c36658a59de29f3a713
+Author: antirez <antirez@gmail.com>
+Date:   Sat Oct 28 09:22:23 2023 +0200
+
+    README / Makefile added.
+
+commit 23f2ce1fd6f02e9a3ddc00a1eae47fc183071704
+Author: antirez <antirez@gmail.com>
+Date:   Sat Oct 28 09:12:48 2023 +0200
+
+    /nick command.
+
+commit 89f4078da8b43aed398fd9d76190fe228b9f7e66
+Author: antirez <antirez@gmail.com>
+Date:   Fri Oct 27 23:22:28 2023 +0200
+
+    Basic chat server operations.
+
+commit 1061212e615ff3e1d2fa27ecc5d3b5d12d5315c7
+Author: antirez <antirez@gmail.com>
+Date:   Fri Oct 27 22:08:41 2023 +0200
+
+    Basic core of functions. Still no server logic.
+
+commit d4348ee68147cd579242f50d876d7776d3ff6fa5
+Author: antirez <antirez@gmail.com>
+Date:   Fri Oct 27 17:34:55 2023 +0200
+
+    Networking functions.
